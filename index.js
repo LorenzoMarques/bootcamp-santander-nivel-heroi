@@ -1,4 +1,4 @@
-const herois = [
+let herois = [
   { nome: "Artur", xp: 4500 },
   { nome: "Liana", xp: 900 },
   { nome: "Mirabel", xp: 3000 },
